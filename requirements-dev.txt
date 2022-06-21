@@ -1,0 +1,6 @@
+## Import runtime dependencies
+-r requirements.txt
+
+## For tests, document generations
+pytest
+pytest-cov
